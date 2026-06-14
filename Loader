@@ -4,6 +4,7 @@ local scripts = {
     [92416421522960] = "4110e79307ad8e1400a58268cfe3f4b1762a4b71d56cea5a737849b42afc64f5",
     [88599461076137] = "7a26a41fa5269e45bb5897270af6b114bb5b309bdfb9dc2a6bc47fe119b4dcbf",
     [107646426076756] = "759209038ca6e1e22db2a3c048e8c5c6f4c16808bace5700e89c46dd07199b13",
+    [97598239454123] = "",
 }
 
 -- Checks the table first; if nothing is found, it defaults to the fallback hash
