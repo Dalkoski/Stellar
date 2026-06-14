@@ -1,4 +1,4 @@
-getgenv().SCRIPT_KEY = "7614c411-ee5f-4817-867d-8d742c106fec"
+getgenv().SCRIPT_KEY = "bb788320-c570-4091-8574-5f5f3589df64"
 
 local scripts = {
     [97598239454123] = "5c3ba31035b64b73861049ad883baef934aa85525eecdef506c8aeb387e4eb59",
@@ -7,7 +7,6 @@ local scripts = {
     [107646426076756] = "759209038ca6e1e22db2a3c048e8c5c6f4c16808bace5700e89c46dd07199b13",
 }
 
--- Checks the table first; if nothing is found, it defaults to the fallback hash
 local hash = scripts[game.PlaceId] or "549f0618732e2aaaf8c03276e38f927f5895936a23fddae83ad873bcfa453150"
 
 if hash then
