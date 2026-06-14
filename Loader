@@ -1,10 +1,10 @@
-getgenv().SCRIPT_KEY = "26f6cc22-aace-4985-8b33-36021dead89d"
+getgenv().SCRIPT_KEY = "7614c411-ee5f-4817-867d-8d742c106fec"
 
 local scripts = {
+    [97598239454123] = "5c3ba31035b64b73861049ad883baef934aa85525eecdef506c8aeb387e4eb59",
     [92416421522960] = "4110e79307ad8e1400a58268cfe3f4b1762a4b71d56cea5a737849b42afc64f5",
     [88599461076137] = "7a26a41fa5269e45bb5897270af6b114bb5b309bdfb9dc2a6bc47fe119b4dcbf",
     [107646426076756] = "759209038ca6e1e22db2a3c048e8c5c6f4c16808bace5700e89c46dd07199b13",
-    [97598239454123] = "5c3ba31035b64b73861049ad883baef934aa85525eecdef506c8aeb387e4eb59",
 }
 
 -- Checks the table first; if nothing is found, it defaults to the fallback hash
